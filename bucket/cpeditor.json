@@ -1,4 +1,5 @@
 {
+  "description": "The IDE for competitive programming",
   "url": "https://github.com/cpeditor/cpeditor/releases/download/6.10.3/cpeditor-6.10.3-windows-x64-portable.zip",
   "homepage": "https://github.com/cpeditor/cpeditor",
   "bin": [
@@ -9,6 +10,9 @@
         "cpeditor.exe",
         "CP Editor"
     ]
+  ],
+  "persist":[
+    "cp_editor_settings.ini"
   ],
   "license": "GPL-3.0-only",
   "version": "6.10.3",
