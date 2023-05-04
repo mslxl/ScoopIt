@@ -1,0 +1,25 @@
+{
+  "version": "2.21",
+  "url": "https://github.com/royqh1979/RedPanda-CPP/releases/download/2.21/RedPanda.C++.2.21.win64.No.Compiler.Portable.7z",
+  "hash": "sha256:04adac437c5379f7fa4096247053a7dd9611751470918bfc8194901045aa5783",
+  "homepage": "https://github.com/royqh1979/RedPanda-CPP",
+  "license": "GPL-3.0-only",
+  "extract_dir": "RedPanda-CPP",
+  "bin": [
+    "RedPandaIDE.exe"
+  ],
+  "persist": [
+    "config",
+    "templates"
+  ],
+  "shortcuts": [
+    [
+        "RedPandaIDE.exe",
+        "RedPanda CPP"
+    ]
+  ],
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/royqh1979/RedPanda-Cpp/releases/download/$version/RedPanda.C++.$version.win64.No.Compiler.Portable.7z"
+  }
+}
