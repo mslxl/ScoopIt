@@ -1,7 +1,7 @@
 {
-    "version": "1.10.0",
+    "version": "1.10.1",
     "license": "Unknown",
-    "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.10.0#/dl.7z",
+    "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.10.1#/dl.7z",
     "extract_dir": "$PLUGINSDIR",
     "extract_to": "package",
     "notes": "In Application Auto update has been disable",
@@ -12,9 +12,7 @@
             "Set-Content -Value \"\" -Path \"$dir/resources/app-update.yml\""
         ]
     },
-    "pre_uninstall": [
-        "taskkill /F /IM 哔哩哔哩.exe"
-    ],
+    "pre_uninstall": "taskkill /F /IM 哔哩哔哩.exe",
     "shortcuts": [
         [
             "哔哩哔哩.exe",
@@ -22,7 +20,7 @@
         ]
     ],
     "homepage": "https://www.bilibili.com/",
-    "hash": "sha256:b28de87fe8df0f20fffcd183a45d834833b979e675883e64f3d5a27067e892c9",
+    "hash": "b28de87fe8df0f20fffcd183a45d834833b979e675883e64f3d5a27067e892c9",
     "checkver": {
         "url": "https://api.bilibili.com/x/web-frontend/getappversion?target=pc_electron&cdn_url=https%3A%2F%2Fdl.hdslb.com%2Fmobile%2Ffixed%2Fbili_win%2Fbili_win-install.exe",
         "regex": "\\.exe\\?v=([\\d\\.]+)",
