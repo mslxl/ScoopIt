@@ -4,12 +4,17 @@
     "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.10.0#/dl.7z",
     "extract_dir": "$PLUGINSDIR",
     "extract_to": "package",
+    "notes": "In Application Auto update has been disable",
     "installer": {
         "script": [
             "Expand-7zipArchive -Path \"$dir/package/app-64.7z\" -DestinationPath \"$dir\"",
-            "Remove-Item \"$dir/package/\" -Recurse -Force"
+            "Remove-Item \"$dir/package/\" -Recurse -Force",
+            "Set-Content -Value \"\" -Path \"$dir/resources/app-update.yml\""
         ]
     },
+    "pre_uninstall": [
+        "taskkill /F /IM 哔哩哔哩.exe"
+    ],
     "shortcuts": [
         [
             "哔哩哔哩.exe",
