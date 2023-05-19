@@ -14,6 +14,9 @@
     "hmcl.json",
     ".minecraft"
   ],
+  "pre_install":[
+    "New-Item -Path \"$($dir)\\hmcl.json\""
+  ],
   "checkver":{
     "url": "https://hmcl.huangyuhui.net/api/update_link?channel=stable&download_link=true",
     "jsonpath": "$.version"
