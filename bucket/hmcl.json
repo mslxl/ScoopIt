@@ -10,6 +10,10 @@
         "Hello Minecraft Launcher"
     ]
   ],
+  "persist":[
+    "hmcl.json",
+    ".minecraft"
+  ],
   "checkver":{
     "url": "https://hmcl.huangyuhui.net/api/update_link?channel=stable&download_link=true",
     "jsonpath": "$.version"
