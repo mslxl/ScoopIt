@@ -18,6 +18,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/Planshit/Tai/releases/download/$version/Tai$version.zip"
+        "url": "https://github.com/Planshit/Tai/releases/download/$version/$version.zip"
     }
 }
