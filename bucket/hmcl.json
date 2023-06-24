@@ -1,8 +1,8 @@
 {
-    "url": "http://maven.aliyun.com/repository/central/org/glavo/hmcl/hmcl-stable/3.5.4/hmcl-stable-3.5.4.exe#/hmcl.exe",
+    "url": "http://maven.aliyun.com/repository/central/org/glavo/hmcl/hmcl-stable/3.5.5/hmcl-stable-3.5.5.exe#/hmcl.exe",
     "homepage": "https://hmcl.huangyuhui.net/download",
-    "hash": "sha1:d58ca4798bc4cb52c1f41cf86c38ef81bc4f61ab",
-    "version": "3.5.4",
+    "hash": "sha1:b416350bd1f6d23e69b7b7ef7a4b69b7110d79bd",
+    "version": "3.5.5",
     "license": "GPL-3.0-or-later",
     "shortcuts": [
         [
