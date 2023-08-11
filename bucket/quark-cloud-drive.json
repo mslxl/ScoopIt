@@ -1,0 +1,21 @@
+{
+    "url": "https://pdds.quark.cn/download/stfile/ppvqytxsspqtprxrp/QuarkCloudDrive-v2.5.29-release-pckk@baidu_sem01-20230509232821.exe",
+    "hash": "5b326e33d013e0edbe250078c380bd2d6cf0d9f3de768ae0e6ff7964f9e61ed1",
+    "license": "Unlicense",
+    "version": "2.5.29",
+    "homepage": "https://pan.quark.cn/",
+    "innosetup": true,
+    "shortcuts": [
+        [
+            "QuarkCloudDrive.exe",
+            "Quark Cloud Drive"
+        ]
+    ],
+    "checkver": {
+        "url": "https://pan.quark.cn/api/desktop_buwang_config",
+        "regex": "https://(?<downloadurl>.*?-v(?<version>[\\d.]+).*?\\.exe)"
+    },
+    "autoupdate": {
+        "url": "https://$matchDownloadurl"
+    }
+}
