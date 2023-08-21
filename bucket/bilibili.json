@@ -1,7 +1,7 @@
 {
-    "version": "1.11.3.2",
+    "version": "1.11.4",
     "license": "Unknown",
-    "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.11.3.2#/dl.7z",
+    "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.11.4#/dl.7z",
     "extract_dir": "$PLUGINSDIR",
     "extract_to": "package",
     "notes": "In Application Auto update has been disable",
