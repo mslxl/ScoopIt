@@ -1,8 +1,8 @@
 {
-    "url": "https://pdds.quark.cn/download/stfile/ppvqytxsspqtprxrp/QuarkCloudDrive-v2.5.29-release-pckk@baidu_sem01-20230509232821.exe",
-    "hash": "5b326e33d013e0edbe250078c380bd2d6cf0d9f3de768ae0e6ff7964f9e61ed1",
+    "url": "https://pdds.quark.cn/download/stfile/fflhmkfiifgjfhnhh/QuarkCloudDrive-v2.5.55-release-pckk@baidu_sem01-20231027095817.exe",
+    "hash": "29612abe2be7650de3a270c7b4b42d6adb9e007e6e28c4daca0ca0d976728f23",
     "license": "Unlicense",
-    "version": "2.5.29",
+    "version": "2.5.55",
     "homepage": "https://pan.quark.cn/",
     "innosetup": true,
     "shortcuts": [
