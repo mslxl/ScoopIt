@@ -1,9 +1,9 @@
 {
-    "version": "10.2.0",
+    "version": "10.3.0",
     "homepage": "https://moosync.app",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/Moosync/Moosync/releases/download/v10.2.0/Moosync-10.2.0-win-x64-portable.exe#/dl.7z",
-    "hash": "41711a70ef8518ec1fdbc33e95b3a7ab8c577b12c139fafbc82bb1eb663ab2a4",
+    "url": "https://github.com/Moosync/Moosync/releases/download/v10.3.0/Moosync-10.3.0-win-x64-portable.exe#/dl.7z",
+    "hash": "c866fac16080194b53022b6d2a4dcdc7bd5278818d5a790c390da474e71095e3",
     "installer": {
         "script": [
             "Expand-7zipArchive -Path \"$dir/`$PLUGINSDIR/app-64.7z\" -DestinationPath \"$dir\"",
