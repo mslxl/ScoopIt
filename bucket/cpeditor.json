@@ -1,25 +1,21 @@
 {
-  "description": "The IDE for competitive programming",
-  "url": "https://github.com/cpeditor/cpeditor/releases/download/6.10.3/cpeditor-6.10.3-windows-x64-portable.zip",
-  "homepage": "https://github.com/cpeditor/cpeditor",
-  "bin": [
-    "cpeditor.exe"
-  ],
-  "shortcuts": [
-    [
-        "cpeditor.exe",
-        "CP Editor"
-    ]
-  ],
-  "persist":[
-    "cp_editor_settings.ini"
-  ],
-  "license": "GPL-3.0-only",
-  "version": "6.10.3",
-  "hash": "sha256:f1dc0aa68388b4b4ce40e9434679eb37ffd6b2367807762e9cc62b150d0faa73",
-  "extract_dir": "",
-  "checkver": "github",
-  "autoupdate": {
-    "url": "https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x64-portable.zip"
-  }
+    "description": "The IDE for competitive programming",
+    "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-portable.zip",
+    "homepage": "https://github.com/cpeditor/cpeditor",
+    "bin": "cpeditor.exe",
+    "shortcuts": [
+        [
+            "cpeditor.exe",
+            "CP Editor"
+        ]
+    ],
+    "persist": "cp_editor_settings.ini",
+    "license": "GPL-3.0-only",
+    "version": "6.11.2",
+    "hash": "e928e2f68a9b091fe4051464c99e3e8c1ec69f69a58f538739239041851ba6f3",
+    "extract_dir": "",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cpeditor/cpeditor/releases/download/$version/cpeditor-$version-windows-x64-portable.zip"
+    }
 }
