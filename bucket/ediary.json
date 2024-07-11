@@ -14,9 +14,7 @@
         }
     },
     "license": "Freeware",
-    "persist": [
-        "Data"
-    ],
+    "persist": "Data",
     "shortcuts": [
         [
             "eDiary.exe",
