@@ -1,8 +1,8 @@
 {
-    "url": "http://repo.huaweicloud.com/repository/maven/org/glavo/hmcl/hmcl-stable/3.5.9/hmcl-stable-3.5.9.exe#/hmcl.exe",
+    "url": "http://repo.huaweicloud.com/repository/maven/org/glavo/hmcl/hmcl-stable/3.6.11/hmcl-stable-3.6.11.exe#/hmcl.exe",
     "homepage": "https://hmcl.huangyuhui.net/download",
-    "hash": "sha1:1b6f7838e00c35958d657c3570534229871480ff",
-    "version": "3.5.9",
+    "hash": "sha1:b8512d18d629efc2807949daa522ec4a96b47cdc",
+    "version": "3.6.11",
     "license": "GPL-3.0-or-later",
     "shortcuts": [
         [
