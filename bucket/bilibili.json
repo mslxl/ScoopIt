@@ -1,7 +1,7 @@
 {
-    "version": "1.15.2",
+    "version": "1.16.0",
     "license": "Unknown",
-    "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.15.2#/dl.7z",
+    "url": "https://dl.hdslb.com/mobile/fixed/bili_win/bili_win-install.exe?v=1.16.0#/dl.7z",
     "extract_dir": "$PLUGINSDIR",
     "extract_to": "package",
     "notes": "In Application Auto update has been disable",
@@ -20,7 +20,7 @@
         ]
     ],
     "homepage": "https://www.bilibili.com/",
-    "hash": "9ae1403485a60743af1c94c5934e957a412799946e39cf01f3598439a5cd1793",
+    "hash": "07eb55650aaac769994e8f089ce0d007230e1691dc6c54a8505cab5409407423",
     "checkver": {
         "url": "https://api.bilibili.com/x/web-frontend/getappversion?target=pc_electron&cdn_url=https%3A%2F%2Fdl.hdslb.com%2Fmobile%2Ffixed%2Fbili_win%2Fbili_win-install.exe",
         "regex": "\\.exe\\?v=([\\d\\.]+)",
