@@ -1,10 +1,10 @@
 {
-    "version": "8bc7033977e8bb18abe4c245a2f9169d29373a76",
+    "version": "6bec1ac4da70749c79362ff2369b720140c39d11",
     "depends": "stack",
     "homepage": "https://github.com/kmonad/kmonad",
     "license": "MIT",
     "url": "https://github.com/kmonad/kmonad/archive/refs/heads/master.zip",
-    "hash": "d9dc0dfe9afe85eebc34f9d65a4cc06215a649a525f1e4e30374ebf60742a0de",
+    "hash": "adfc9ccace9cb95d081d786bded25f9ec7d6d1203e8f5a9d49a2093ef08d8da2",
     "extract_dir": "kmonad-master",
     "installer": {
         "script": [
