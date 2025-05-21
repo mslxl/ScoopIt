@@ -1,14 +1,14 @@
 {
-    "version": "v5.16.5",
+    "version": "v5.16.7",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v5.16.5/MAA-v5.16.5-win-x64.zip",
-            "hash": "de9e81b0a737c2bd9dae78b7b2918dffa1787784cb227cf1ef883a9b15d8f4ac"
+            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v5.16.7/MAA-v5.16.7-win-x64.zip",
+            "hash": "8b2dfadb8af0c06a81fa41fbec0608facac5e703d78bfef51db9e3fe7eb04deb"
         },
         "arm64": {
-            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v5.16.5/MAA-v5.16.5-win-arm64.zip",
-            "hash": "9068fb89afec60e2b79270f7b79bce8366736aa15e26d3dc41ec620e9f5afce1"
+            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v5.16.7/MAA-v5.16.7-win-arm64.zip",
+            "hash": "9cda489e5111978245e743a55e54bd64b84ad5f1ecdd79e4c8cb5a48f0a3bc18"
         }
     },
     "homepage": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
