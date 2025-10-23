@@ -1,7 +1,7 @@
 {
     "description": "一站式在线弹幕追番平台",
-    "url": "https://github.com/open-ani/animeko/releases/download/v5.0.1/ani-5.0.1-windows-x86_64.zip",
-    "hash": "6af2e979461cce2e47118542643128a813dbec99ece9887d5e86977463478f0e",
+    "url": "https://github.com/open-ani/animeko/releases/download/v5.1.0/ani-5.1.0-windows-x86_64.zip",
+    "hash": "b4718aed50c7272c18541e7e0a56f14300c2c29180091d616811d14415c9adff",
     "homepage": "https://github.com/open-ani/animeko",
     "shortcuts": [
         [
@@ -11,7 +11,7 @@
     ],
     "extract_dir": "Ani",
     "license": "AGPL-3.0-only",
-    "version": "5.0.1",
+    "version": "5.1.0",
     "checkver": "github",
     "installer": {
         "script": [
