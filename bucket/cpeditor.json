@@ -1,6 +1,6 @@
 {
     "description": "The IDE for competitive programming",
-    "url": "https://github.com/cpeditor/cpeditor/releases/download/6.11.2/cpeditor-6.11.2-windows-x64-portable.zip",
+    "url": "https://github.com/cpeditor/cpeditor/releases/download/7.0.2/cpeditor-7.0.2-windows-x64-portable.zip",
     "homepage": "https://github.com/cpeditor/cpeditor",
     "bin": "cpeditor.exe",
     "shortcuts": [
@@ -11,8 +11,8 @@
     ],
     "persist": "cp_editor_settings.ini",
     "license": "GPL-3.0-only",
-    "version": "6.11.2",
-    "hash": "e928e2f68a9b091fe4051464c99e3e8c1ec69f69a58f538739239041851ba6f3",
+    "version": "7.0.2",
+    "hash": "2dcd30cc209bb7f4946faabe64f0e260f70ba4cbb2bdb2e0ea1294f589e08969",
     "extract_dir": "",
     "checkver": "github",
     "autoupdate": {
