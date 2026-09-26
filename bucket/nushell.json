@@ -1,10 +1,10 @@
 {
     "bin": "nu.exe",
     "homepage": "https://github.com/nushell/nushell",
-    "url": "https://github.com/nushell/nushell/releases/download/0.115.1/nu-0.115.1-x86_64-pc-windows-msvc.zip",
-    "version": "0.115.1",
+    "url": "https://github.com/nushell/nushell/releases/download/0.116.0/nu-0.116.0-x86_64-pc-windows-msvc.zip",
+    "version": "0.116.0",
     "license": "Freeware",
-    "hash": "b83009cbc88021f4dc293c49320118886b78363f9a4bb14933d33c8803241f46",
+    "hash": "745b165d847e34b5dea80c2cfc867383c02b907d288a59a44b25e39bcac14015",
     "shortcuts": [
         [
             "nu.exe",
