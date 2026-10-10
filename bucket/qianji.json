@@ -1,5 +1,5 @@
 {
-    "version": "457_1577",
+    "version": "458_1579",
     "description": "ad-free, non-intrusive, and non-background-running bookkeeping app",
     "homepage": "https://www.qianjiapp.com/",
     "license": {
@@ -8,9 +8,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://app.qianjiapp.com/qianji_457_1577.zip",
-            "hash": "58d9f9707ee3755f76d8afac6f06e683bad162a37c00ff3c7035d0dbee0cfbf3",
-            "extract_dir": "qianji_457_1577"
+            "url": "https://app.qianjiapp.com/qianji_458_1579.zip",
+            "hash": "a6464bc3dc8d64b981849deeb38687fd3a05fd4214dac86270c25666a11c9132",
+            "extract_dir": "qianji_458_1579"
         }
     },
     "bin": "qianji.exe",
