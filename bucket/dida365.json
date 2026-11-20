@@ -1,15 +1,15 @@
 {
-    "version": "8.2.5.0",
+    "version": "8.2.6.0",
     "description": "让你的 Windows 电脑成为高效办公平台",
     "license": "Unknown",
     "architecture": {
         "64bit": {
             "url": "https://www.dida365.com/down/getApp/download?type=win64#/dl.exe",
-            "hash": "4d128ba57ef7e676b37844f919e67ef9d2c5030efca00dda8028eb77282b7bff"
+            "hash": "46516694fafcc2d90739dd0cbc199ba626e54c11571b04c1c255dc30f343280e"
         },
         "32bit": {
             "url": "https://www.dida365.com/down/getApp/download?type=win#/dl.exe",
-            "hash": "39941c4127c4f35df638f346b852e1c4bd55287a689bc5f8e90158a1e1c64b98"
+            "hash": "22c6db92d34c7a340628fb832e9015b47199851ffcf87ded037803b35a753984"
         }
     },
     "innosetup": true,
